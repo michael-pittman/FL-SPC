@@ -16,7 +16,7 @@ body {
 	color: #FFFFFF;
 }
 .container.well {
-	background-image: url(../images/parallax.png);
+	background-image: url(/images/parallax.png);
 }
 #carouseli {
 	background-image: url(../images/parallax.png);
