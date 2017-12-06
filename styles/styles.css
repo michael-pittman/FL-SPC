@@ -9,14 +9,8 @@ body {
 	background-color: #c8c8c87d;
 	color: #FDFEF6;
 }
-.container {
-	background-color: #023A46;
-}
 .navbar-header {
 	color: #FFFFFF;
-}
-.container.well {
-	background-image: url(/images/parallax.png);
 }
 #carouseli {
 	background-image: url(../images/parallax.png);
@@ -45,5 +39,8 @@ body {
 }
 #footerLinks {
 	color: #FFF0F0;
-	background-color: #2d2d2dc2;
+	background-color: #000000b8;
+}
+.footerBG {
+	background-image: url(../images/parallax.png);
 }
