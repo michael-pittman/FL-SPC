@@ -1,0 +1,49 @@
+table {
+	background-color: #023A46;
+}
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	background-color: #2D2D2D;
+}
+.caption {
+	background-color: #c8c8c87d;
+	color: #FDFEF6;
+}
+.container {
+	background-color: #023A46;
+}
+.navbar-header {
+	color: #FFFFFF;
+}
+.container.well {
+	background-image: url(../images/parallax.png);
+}
+#carouseli {
+	background-image: url(../images/parallax.png);
+}
+#hrtop {
+	background-color: #2D2D2D;
+	background-image: url(../images/parallax.png);
+}
+#linkstopages {
+	background-image: url(../images/parallax.png);
+}
+#nav {
+	background-color: #5DB0D0;
+}
+#title {
+	color: #FFFFFF;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	padding-top: 4px;
+	padding-right: 4px;
+	padding-bottom: 4px;
+	padding-left: 4px;
+	background-color: #2d2d2dc2;
+}
+.thumbnail {
+	background-color: #ffffff1a;
+}
+#footerLinks {
+	color: #FFF0F0;
+	background-color: #2d2d2dc2;
+}
