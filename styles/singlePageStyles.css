@@ -1,0 +1,17 @@
+@charset "UTF-8";
+#hero {
+	background-image: url(../images/spc1.png);
+}
+header {
+	background-color: #2D9AB7;
+}
+.banner {
+	background-image: url(../images/spc1.png);
+}
+.intro {
+		background-image: url(images/Screen%20Shot%202017-10-30%20at%208.02.22%20PM.png);
+
+}
+tr .full-width-image img {
+	background-image: url(images/Screen%20Shot%202017-10-30%20at%208.02.22%20PM.png);
+}
